@@ -1,0 +1,6 @@
+{
+  "name": "Nova CubeSat Ground Station",
+  "description": "A high-fidelity telemetry dashboard for live CubeSat monitoring, receiving direct satellite data via Express backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
