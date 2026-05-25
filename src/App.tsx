@@ -243,7 +243,7 @@ export default function App() {
             title="Return to Fleet Overview"
           >
             <img 
-              src="/src/assets/images/logo.png" 
+              src="src\assets\images\logo.png" 
               alt="Lab of Future" 
               className="h-16 w-auto object-contain"
               referrerPolicy="no-referrer"
