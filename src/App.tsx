@@ -242,9 +242,7 @@ export default function App() {
             className="transition-transform hover:scale-105 active:scale-95"
             title="Return to Fleet Overview"
           >
-            <img 
-              src="src\assets\images\logo.png" 
-              alt="Lab of Future" 
+           <img src="/images/logo.png" alt="Lab of Future" 
               className="h-16 w-auto object-contain"
               referrerPolicy="no-referrer"
             />
